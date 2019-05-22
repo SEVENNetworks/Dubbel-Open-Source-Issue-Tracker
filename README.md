@@ -6,6 +6,9 @@ Dubbel is available on the Play Store.
 
 <a href='https://play.google.com/store/apps/details?id=com.seven.applauncher&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
+## Releases
+
+* Latest release: [2.0.0.221-play](https://github.com/SEVENNetworks/Dubbel/releases/tag/v2.0.0.221-play)
 
 ## Open Source Bug Tracker
 
