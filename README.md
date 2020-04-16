@@ -8,7 +8,7 @@ Dubbel is available on the Play Store.
 
 ## Releases
 
-* Latest release: [2.2.2.268-play](https://github.com/SEVENNetworks/Dubbel/releases/tag/v2.2.2.268-play)
+* Latest release: [2.3.0.274-play](https://github.com/SEVENNetworks/Dubbel/releases/tag/v2.3.0.274-play)
 
 ## Open Source Bug Tracker
 
